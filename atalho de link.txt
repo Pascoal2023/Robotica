@@ -1,0 +1,2 @@
+https://www.tinkercad.com/projects/Ultrasonic-Distance-Sensor-Arduino-Tinkercad
+projeto com sensor ultrasonic.
